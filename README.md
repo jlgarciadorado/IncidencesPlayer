@@ -1,4 +1,4 @@
-# Indicences Replayer
+# Indicences player
 
 This repository comprises resources used by project "Towards the automatic and schedule-aware alerting of internetwork time series".
 
