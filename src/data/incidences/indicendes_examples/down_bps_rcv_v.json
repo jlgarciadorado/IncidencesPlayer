@@ -1,0 +1,30 @@
+[
+    {
+        "from": "04:00:00 10-08-2020",
+        "until": "12:00:00 21-08-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.6,
+        "intensity": 0.3
+    },
+    {
+        "from": "00:00:00 20-09-2020",
+        "until": "03:00:00 24-09-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.8,
+        "intensity": 0.1
+    },
+    {
+        "from": "04:00:00 02-09-2020",
+        "until": "23:00:00 10-09-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.9,
+        "intensity": 0.04
+    },
+    {
+        "from": "09:00:00 23-08-2020",
+        "until": "10:00:00 27-08-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.9,
+        "intensity": 0.4
+    }
+]

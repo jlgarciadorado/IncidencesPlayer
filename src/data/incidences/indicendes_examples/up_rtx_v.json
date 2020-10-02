@@ -1,0 +1,23 @@
+[
+    {
+        "from": "04:00:00 12-09-2020",
+        "until": "12:00:00 12-09-2020",
+        "column": "rtx",
+        "proportion": 1,
+        "intensity": 1.5
+    },
+    {
+        "from": "08:00:00 04-09-2020",
+        "until": "12:00:00 04-09-2020",
+        "column": "rtx",
+        "proportion": 0.9,
+        "intensity": 2
+    },
+    {
+        "from": "03:00:00 21-09-2020",
+        "until": "23:00:00 21-09-2020",
+        "column": "rtx",
+        "proportion": 0.7,
+        "intensity": 3
+    }
+]

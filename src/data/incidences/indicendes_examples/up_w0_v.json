@@ -1,0 +1,16 @@
+[
+    {
+        "from": "04:00:00 17-09-2020",
+        "until": "12:00:00 19-09-2020",
+        "column": "win0",
+        "proportion": 1,
+        "intensity": 5
+    },
+    {
+        "from": "07:00:00 23-09-2020",
+        "until": "09:00:00 23-09-2020",
+        "column": "win0",
+        "proportion": 0.8,
+        "intensity": 2
+    }
+]

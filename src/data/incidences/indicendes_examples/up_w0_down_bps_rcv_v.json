@@ -1,0 +1,44 @@
+[
+    {
+        "from": "04:00:00 04-08-2020",
+        "until": "12:00:00 10-08-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.6,
+        "intensity": 0.1
+    },
+    {
+        "from": "04:00:00 04-08-2020",
+        "until": "12:00:00 10-08-2020",
+        "column": "win0",
+        "proportion": 0.6,
+        "intensity": 6
+    },
+    {
+        "from": "00:00:00 20-08-2020",
+        "until": "03:00:00 25-08-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.9,
+        "intensity": 0.35
+    },
+    {
+        "from": "00:00:00 20-08-2020",
+        "until": "03:00:00 25-08-2020",
+        "column": "win0",
+        "proportion": 0.9,
+        "intensity": 2
+    },
+    {
+        "from": "03:00:00 23-08-2020",
+        "until": "23:00:00 24-08-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.7,
+        "intensity": 0.2
+    },
+    {
+        "from": "03:00:00 23-08-2020",
+        "until": "23:00:00 24-08-2020",
+        "column": "win0",
+        "proportion": 0.7,
+        "intensity": 4
+    }
+]

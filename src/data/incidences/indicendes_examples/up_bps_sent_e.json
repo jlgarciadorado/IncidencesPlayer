@@ -1,0 +1,23 @@
+[
+    {
+        "from": "03:00:00 04-09-2020",
+        "until": "22:00:00 15-09-2020",
+        "column": "bpsPhySent",
+        "proportion": 0.5,
+        "intensity": 70
+    },
+    {
+        "from": "03:00:00 02-08-2020",
+        "until": "04:00:00 13-08-2020",
+        "column": "bpsPhySent",
+        "proportion": 0.8,
+        "intensity": 300
+    },
+    {
+        "from": "03:00:00 18-08-2020",
+        "until": "07:00:00 26-08-2020",
+        "column": "bpsPhySent",
+        "proportion": 0.9,
+        "intensity": 3
+    }
+]

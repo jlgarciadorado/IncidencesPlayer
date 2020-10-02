@@ -1,0 +1,30 @@
+[
+    {
+        "from": "00:00:00 21-09-2020",
+        "until": "03:00:00 21-09-2020",
+        "column": "numberCnx",
+        "proportion": 1,
+        "intensity": 4
+    },
+    {
+        "from": "23:00:00 04-09-2020",
+        "until": "03:00:00 05-09-2020",
+        "column": "rttPerCnx",
+        "proportion": 0.9,
+        "intensity": 4
+    },
+    {
+        "from": "03:00:00 20-09-2020",
+        "until": "06:00:00 20-09-2020",
+        "column": "rtx",
+        "proportion": 0.7,
+        "intensity": 6
+    },
+    {
+        "from": "00:00:00 18-09-2020",
+        "until": "03:00:00 19-09-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.8,
+        "intensity": 3
+    }
+]
