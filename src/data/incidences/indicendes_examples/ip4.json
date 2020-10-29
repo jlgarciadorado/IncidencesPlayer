@@ -1,0 +1,16 @@
+[
+    {
+        "from": "00:00:00 03-11-2020",
+        "until": "03:00:00 03-11-2020",
+        "column": "numberCnx",
+        "proportion": 1.0,
+        "intensity": 3
+    },
+    {
+        "from": "12:00:00 03-11-2020",
+        "until": "23:00:00 03-11-2020",
+        "column": "numberCnx",
+        "proportion": 1.0,
+        "intensity": 10
+    }
+]

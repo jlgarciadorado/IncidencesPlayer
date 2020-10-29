@@ -1,0 +1,16 @@
+[
+    {
+        "from": "00:00:00 29-10-2020",
+        "until": "03:00:00 29-10-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.8,
+        "intensity": 3
+    },
+    {
+        "from": "04:00:00 29-10-2020",
+        "until": "23:00:00 29-10-2020",
+        "column": "bpsPhyRcv",
+        "proportion": 0.9,
+        "intensity": 2
+    }
+]
