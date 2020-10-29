@@ -1,6 +1,6 @@
 import pandas as pd
 """Example of how the incident generator works
-"""
+""""
 from modules.util import get_working_incidence
 from modules.incidences import generar_incidencias
 
